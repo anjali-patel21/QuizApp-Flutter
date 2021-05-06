@@ -1,0 +1,12 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/anjalipatel/Developer/flutter
+FLUTTER_APPLICATION_PATH=/Users/anjalipatel/Flutter-projects/quizapp
+FLUTTER_TARGET=/Users/anjalipatel/Flutter-projects/quizapp/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/anjalipatel/Flutter-projects/quizapp/.dart_tool/package_config.json
